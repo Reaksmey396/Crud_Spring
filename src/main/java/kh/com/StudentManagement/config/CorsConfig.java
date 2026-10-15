@@ -18,7 +18,7 @@ public class CorsConfig {
                     .allowedOrigins(
                         "http://localhost:5500",
                         "http://127.0.0.1:5500",
-                        "https://reaksmey396.github.io/HTML_Crud_Spring/"
+                        "https://reaksmey396.github.io"
                     )
                     .allowedMethods(
                         "GET", "POST", "PUT",
